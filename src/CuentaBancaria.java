@@ -7,7 +7,7 @@ public class CuentaBancaria {
         this.saldo = saldo;
     }
 
-    public void mostrarInfo(){
+    public void mostrarInformacion(){
         System.out.println("Titular: "+ nombreTitular);
         System.out.println("Saldo: $"+ saldo);
     }

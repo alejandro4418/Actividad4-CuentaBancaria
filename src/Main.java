@@ -5,5 +5,5 @@ void main() {
     c1.mostrarInfo();
     c1.depositar(26.8);
     c1.retirar(14.5);
-    c1.mostrarInfo();
+    c1.mostrarInformacion();
 }
